@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-cs5",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d4b4089-fbb6-4670-a852-3ac54e87984f",
+		"tenantId": "dce87315-8ffa-4a01-ab40-0de5a7214b2f"
+	}
+}
