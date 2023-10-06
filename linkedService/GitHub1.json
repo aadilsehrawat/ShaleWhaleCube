@@ -1,0 +1,12 @@
+{
+	"name": "GitHub1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "GitHub",
+		"typeProperties": {
+			"username": "aadilsehrawat",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEQ2OTFFRUVFLTk3MzktNEY0RC04Nzk0LUNFMUM4OUJERUVGM184MTFjZWNmOC0wYTcxLTRiYzQtYTRhZS0yYzZhM2E1YjQwNjIiDQp9"
+		}
+	}
+}
